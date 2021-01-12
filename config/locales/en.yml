@@ -295,7 +295,7 @@ en:
     email: Email
     submit: Submit
   go_back: Go back
-  greenlight: Greenlight
+  greenlight: Kor.chat
   header:
     all_recordings: All Recordings
     dropdown:
@@ -319,7 +319,7 @@ en:
     search:
       start: Start searching...
   landing:
-    about: "%{href} is a simple front-end for Kor.chat corporate web conferencing server. You can create your own rooms to host sessions, or join others using a short and convenient link."
+    about: "Welcome Kor.chat corporate web conferencing server. You can create your own rooms to host sessions, or join others using a short and convenient link."
     welcome: Welcome to Kor.chat.
     video:   
     upgrade:   
@@ -335,10 +335,10 @@ en:
         signin: To access your personal rooms, click the button below and sign in.
         signin_link: Sign In
         signup:
-          info: A new user has signed up to use Greenlight.
-          more-info: To allow this user to access Greenlight you must approve their account in organization settings.
+          info: A new user has signed up to use Kor.chat.
+          more-info: To allow this user to access Kor.chat you must approve their account in organization settings.
           admins_link: Visit the Organization Page
-          subject: New Greenlight User Sign Up
+          subject: New Kor.chat User Sign Up
           username: The user signed up with the name %{name} and the email %{email}.
         subject: Account Approved
         username: Your username is %{email}.
@@ -352,9 +352,9 @@ en:
         signup_info: To signup using your email, click the button below and follow the steps.
         signup_link: Sign Up
         signup:
-          info: A user that was invited has signed up to use Greenlight.
+          info: A user that was invited has signed up to use Kor.chat.
           admins_link: Visit the Organization Page
-          subject: New Greenlight User Sign Up
+          subject: New Kor.chat User Sign Up
           username: The user signed up with the name %{name} and the email %{email}.
         subject: Invitation to join Kor.chat
         username: Your username is %{email}.
